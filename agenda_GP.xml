@@ -1,0 +1,239 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<AddressBook>
+  <Contact>
+    <FirstName>Analista RRHH</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>226</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Analista T.I.C.</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>201</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Asesor C.03 Plastro</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>126</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Asesor C.05 Paperind</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>423</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Asesor C.05 Plastro</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>200</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Asesor C.06 Alumpack</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>461</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Asesor C.06 Plastro</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>132</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Asesor C.07 Plastro</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>121</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Asesor C.10 Paperind</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>420</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Asesor C.10 Plastro</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>231</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Asist.Bodega PT</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>152</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Asist.Presidencia</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>113</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Aux.Abastecimiento</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>243</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Aux.Administrativo</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>224</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Aux.Bodega MP</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>134</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Aux.Cobranzas</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>127</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Aux.Costos</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>144</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Aux.Serv.Cliente</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>229</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Contador Costos</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>143</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Contador General</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>133</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Contador Tributario</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>142</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Coord.Bodega MP</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>136</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Coord.Cob.Paperind</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>123</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Coord.Cob.Plastro</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>101</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Coord.Moldes</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>233</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Coord.Neg. y Proy.</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>114</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Coord.Prod.Paperindu</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>421</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Coord.Prod.Plastro</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>223</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Coord.Serv.Cliente</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>125</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Enfermeria</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>161</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Garita Seg.02</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>192</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Garita Seg.03</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>193</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Insp.Calidad Plastro</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>228</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Jefe Abastecimiento</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>135</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Jefe Bodega PT</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>151</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Jefe Control Calidad</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>138</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Jefe Diseno Grafico</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>137</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Jefe Div.Construcc.</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>230</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Jefe Div.Consumo</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>122</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Jefe Div.Industrial</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>110</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Jefe Financiero</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>131</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Jefe Mantenimiento</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>222</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Jefe Marketing</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>124</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Jefe Operaciones</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>171</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Jefe RRHH</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>221</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Jefe Seg.industrial</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>227</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Jefe T.I.C.</FirstName>
+    <LastName></LastName>
+    <Phone><phonenumber>225</phonenumber><accountindex>0</accountindex></Phone>
+  </Contact>
+</AddressBook>
