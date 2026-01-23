@@ -1,6 +1,6 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
-<AddressBook>
+<PhoneBook>
   <Contact>
     <FirstName>Analista RRHH</FirstName>
     <LastName></LastName>
@@ -236,4 +236,5 @@
     <LastName></LastName>
     <Phone><phonenumber>225</phonenumber><accountindex>0</accountindex></Phone>
   </Contact>
-</AddressBook>
+
+</PhoneBook>
