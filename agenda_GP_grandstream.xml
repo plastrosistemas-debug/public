@@ -376,4 +376,68 @@
       <accountindex>0</accountindex>
     </Phone>
   </Contact>
+  <Contact>
+    <FirstName>Medico Ocupacional</FirstName>
+    <LastName/>
+    <Phone>
+      <phonenumber>162</phonenumber>
+      <accountindex>0</accountindex>
+    </Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Presidente</FirstName>
+    <LastName/>
+    <Phone>
+      <phonenumber>111</phonenumber>
+      <accountindex>0</accountindex>
+    </Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Recepcionista</FirstName>
+    <LastName/>
+    <Phone>
+      <phonenumber>191</phonenumber>
+      <accountindex>0</accountindex>
+    </Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Sala Reun.General</FirstName>
+    <LastName/>
+    <Phone>
+      <phonenumber>112</phonenumber>
+      <accountindex>0</accountindex>
+    </Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Sala Reun.Planta</FirstName>
+    <LastName/>
+    <Phone>
+      <phonenumber>232</phonenumber>
+      <accountindex>0</accountindex>
+    </Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Sup.Prod.Paperindust</FirstName>
+    <LastName/>
+    <Phone>
+      <phonenumber>422</phonenumber>
+      <accountindex>0</accountindex>
+    </Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Sup.Prod.Plastro</FirstName>
+    <LastName/>
+    <Phone>
+      <phonenumber>184</phonenumber>
+      <accountindex>0</accountindex>
+    </Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Tesorero</FirstName>
+    <LastName/>
+    <Phone>
+      <phonenumber>141</phonenumber>
+      <accountindex>0</accountindex>
+    </Phone>
+  </Contact>
 </AddressBook>
