@@ -97,15 +97,23 @@
     </Phone>
   </Contact>
   <Contact>
-    <FirstName>Aux.Abastecimiento</FirstName>
+    <FirstName>Analista Abastecimiento</FirstName>
     <LastName/>
     <Phone>
-      <phonenumber>243</phonenumber>
+      <phonenumber>130</phonenumber>
       <accountindex>0</accountindex>
     </Phone>
   </Contact>
   <Contact>
-    <FirstName>Aux.Administrativo</FirstName>
+    <FirstName>Asist.Abast.Paper</FirstName>
+    <LastName/>
+    <Phone>
+      <phonenumber>430</phonenumber>
+      <accountindex>0</accountindex>
+    </Phone>
+  </Contact>
+  <Contact>
+    <FirstName>Aux.Administrativo Paper</FirstName>
     <LastName/>
     <Phone>
       <phonenumber>224</phonenumber>
@@ -113,7 +121,7 @@
     </Phone>
   </Contact>
   <Contact>
-    <FirstName>Aux.Bodega MP</FirstName>
+    <FirstName>Aux.Bodega MP.& R.</FirstName>
     <LastName/>
     <Phone>
       <phonenumber>134</phonenumber>
@@ -121,7 +129,7 @@
     </Phone>
   </Contact>
   <Contact>
-    <FirstName>Aux.Cobranzas</FirstName>
+    <FirstName>Asistente Cobranzas</FirstName>
     <LastName/>
     <Phone>
       <phonenumber>127</phonenumber>
@@ -169,7 +177,7 @@
     </Phone>
   </Contact>
   <Contact>
-    <FirstName>Coord.Bodega MP</FirstName>
+    <FirstName>Coord.Bodega MP.& R.</FirstName>
     <LastName/>
     <Phone>
       <phonenumber>136</phonenumber>
@@ -393,7 +401,7 @@
     </Phone>
   </Contact>
   <Contact>
-    <FirstName>Recepcionista</FirstName>
+    <FirstName>Auxiliar de RRHH</FirstName>
     <LastName/>
     <Phone>
       <phonenumber>191</phonenumber>
